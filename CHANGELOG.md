@@ -7,7 +7,7 @@ and then from jpreprocess to this repository.
 
 While the files were in jpreprocess, some words were modified.
 
-- [Broken accent rules were fixed](https://github.com/jpreprocess/jpreprocess/commit/abadf7c1a2745e2de49c0ee760c3734ada41d820#diff-59216a03e32b0f71cc9bd619896bd04e153c46db349b913001d219c8734816e4)
+* [Broken accent rules were fixed](https://github.com/jpreprocess/jpreprocess/commit/abadf7c1a2745e2de49c0ee760c3734ada41d820#diff-59216a03e32b0f71cc9bd619896bd04e153c46db349b913001d219c8734816e4)
   
   ```diff
   - 名詞%F2@1/形容詞%F2@-1動詞%F2@0
@@ -17,3 +17,8 @@ While the files were in jpreprocess, some words were modified.
 ## v0.1.0
 
 Initial Release. Nothing was changed.
+
+## v0.1.1
+
+* Add documentation by @femshima in <https://github.com/jpreprocess/naist-jdic/pull/3>
+* fix カ往促音便 by @femshima in <https://github.com/jpreprocess/naist-jdic/pull/4>
