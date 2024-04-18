@@ -22,3 +22,8 @@ Initial Release. Nothing was changed.
 
 * Add documentation by @femshima in <https://github.com/jpreprocess/naist-jdic/pull/3>
 * fix カ往促音便 by @femshima in <https://github.com/jpreprocess/naist-jdic/pull/4>
+
+## v0.1.2
+
+* Apply NEologd patch on pronunciations by @femshima in <https://github.com/jpreprocess/naist-jdic/pull/5>
+* Remove numbers from unidic by @femshima in <https://github.com/jpreprocess/naist-jdic/pull/6>
