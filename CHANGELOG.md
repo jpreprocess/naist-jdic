@@ -27,3 +27,7 @@ Initial Release. Nothing was changed.
 
 * Apply NEologd patch on pronunciations by @femshima in <https://github.com/jpreprocess/naist-jdic/pull/5>
 * Remove numbers from unidic by @femshima in <https://github.com/jpreprocess/naist-jdic/pull/6>
+
+## v0.1.3
+
+* Fix mora size by @femshima in <https://github.com/jpreprocess/naist-jdic/pull/7>
